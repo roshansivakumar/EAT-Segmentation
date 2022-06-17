@@ -1,0 +1,8 @@
+Test Data/
+Training Data/
+EAT Project/
+**/*.hdf
+Code/SecondAttempt/annotations/
+Code/SecondAttempt/images/
+Code/SecondAttempt/annotations.tar.gz
+Code/SecondAttempt/images.tar.gz
